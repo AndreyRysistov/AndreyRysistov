@@ -1,7 +1,7 @@
 ### Привет! 👋
 
 ### ✨ Обо мне за 30 секунд ✨ 
-* 🎓 Московский авиационный институт:
+* 🎓 Московский авиационный институт (МАИ):
   - Бакалавр: 09.03.02 - Информационные системы и технологии (Информационные системы аэрокосмических комплексов);
   - Магистр: 09.04.01 - Информатика и вычислительная техника (Искусственный интеллект в технических системах);
   - 📕 Диплом с отличием 📕;
@@ -41,7 +41,7 @@
 ### Hello! 👋
 
 ### ✨ About me in 30 seconds ✨ 
-* 🎓 Moscow Aviation Institute:
+* 🎓 Moscow Aviation Institute (MAI):
 - Bachelor's degree:: 09.03.02 - Information systems and technologies (Information systems of aerospace complexes);
 - Master's degree: 09.04.01 - Computer Science and Computer Engineering (Artificial intelligence in technical systems);
 - 📕 Degree with honors 📕 ;
