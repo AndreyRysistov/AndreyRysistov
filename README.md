@@ -27,7 +27,7 @@
     * Management;
 
 ### ⚡️ В настоящее время ⚡️
-- Работаю главным DS в Skillfactory, занимаюсь оптимизацией бизнеса и создаю образовательный контент;
+- Работаю экспертом DS в Skillfactory, занимаюсь автоматизацией процессов бизнеса и создаю образовательный контент;
 - Пишу цикл статей об автономном позиционировании БПЛА на разносезонной местности;
 - Изучаю администрирование баз данных на Postgres;
 - Прохожу курс: ML-engineer в Skillfactory;
@@ -67,7 +67,7 @@
           * Management;
 
 ### ⚡️ Currently ⚡️
-- I work as the main DS in Skillfactory, I optimize business and create educational content;
+- I work as a DS expert at Skillfactory, automate business processes and create educational content;
 - I am writing a series of articles about autonomous positioning of UAVs on multi-season terrain;
 - Studying database administration on Postgres;
 - I am taking the course: ML-engineer in Skillfactory;
