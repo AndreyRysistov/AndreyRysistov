@@ -11,7 +11,7 @@
 * 📃 На досуге пишу научные статьи (все находятся в РИНЦ)
 
 ### 💡 Основные компетенции 💡
-- Инструменты: SQL, Python, C++
+- Инструменты: SQL, Python, C++, Power BI, NiFi, Pentaho
 - Skills: 
   - Hard skills:
     * Mathematical statistics;
