@@ -6,7 +6,7 @@
   - Магистр: 09.04.01 - Информатика и вычислительная техника (Искусственный интеллект в технических системах);
   - 📕 Диплом с отличием 📕;
 * 🤖 Варюсь в Data Science с 2019
-* 📚 Преподаю Python и Machine Learning в вузах и онлайн-школе
+* 📚 Преподаю Python и Machine Learning в вузах и онлайн-школах
 * ✈ Область научных интересов: использование методов машинного обучения и компьютерного зрения для авиационных систем
 * 📃 На досуге пишу научные статьи (все находятся в РИНЦ)
 
@@ -27,10 +27,9 @@
     * Management;
 
 ### ⚡️ В настоящее время ⚡️
-- Работаю экспертом DS в Skillfactory, занимаюсь автоматизацией процессов бизнеса и создаю образовательный контент;
+- Работаю экспертом DS в Шереметьево, занимаюсь анализом данных аэропорта и автоматизацией бизнес-процессов с помощью ML;
 - Пишу цикл статей об автономном позиционировании БПЛА на разносезонной местности;
-- Изучаю администрирование баз данных на Postgres;
-- Прохожу курс: ML-engineer в Skillfactory;
+- Выпускаю свой собственный курс по Data Science;
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/Rysistov)
@@ -67,10 +66,9 @@
           * Management;
 
 ### ⚡️ Currently ⚡️
-- I work as a DS expert at Skillfactory, automate business processes and create educational content;
-- I am writing a series of articles about autonomous positioning of UAVs on multi-season terrain;
-- Studying database administration on Postgres;
-- I am taking the course: ML-engineer in Skillfactory;
+- I work as a DS expert in Sheremetyevo, I analyze airport data and automate business processes using ML;
+- I am writing a series of articles about the autonomous positioning of UAVs in multi-season terrain;
+- I am releasing my own course on Data Science;
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/Rysistov)
